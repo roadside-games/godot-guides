@@ -1,6 +1,7 @@
 # Transition Texture Mask
 
 A smooth, customizable screen transition effect for Godot 4 using a texture mask and shader.
+<img width="1080" height="1920" alt="maskgif" src="https://github.com/user-attachments/assets/d082af15-c5d1-4305-919c-c4e1bfbc9175" />
 
 ## Files
 
